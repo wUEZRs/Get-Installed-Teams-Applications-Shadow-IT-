@@ -1,0 +1,1 @@
+This script checks all of your Entra ID Microsoft 365 tenant for Shadow IT/Unapproved third party Teams, which can easily happen since Microsoft has decoupled Teams Apps from Entra ID apps, to where users may be allowed to install any third party app they want.
